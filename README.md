@@ -1,9 +1,9 @@
-<!doctype html>
+#<!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
-    <title>MY NAME</title>
+    <title>Mauricio Arango</title>
     <link rel="stylesheet" href="github-markdown.css">
     <style>
       body {
@@ -21,7 +21,7 @@
         <h1>Mauricio Arango</h1>
       </p>
       <p align="center">
-        <img src="DSC_0191_edited_BW.jpg">
+        <img src="DSC_0191_edited_BW.jpg" style="width:50%" >
       </p>
       <h2>Papers</h2>
       <p>Here are my papers!</p>
