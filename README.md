@@ -18,16 +18,16 @@
   <body>
     <article class="markdown-body">
       <p align="center">
-        <h1>Kevin Wilson</h1>
+        <h1>Mauricio Arango</h1>
       </p>
       <p align="center">
-        <img src="https://kevinhayeswilson.com/images/me.jpg">
+        <img src="DSC_0191_edited_BW.jpg">
       </p>
       <h2>Papers</h2>
       <p>Here are my papers!</p>
       <ul>
-        <li><strong>JMP</strong> <em>The number of Quartic D4 fields ordered by conductor</em>. (With S.A. Altug, A. Shankar, and I. Varma.) <a href="./d4.pdf">link</a>.</li>
-        <li><em>Another awesome paper</em>. (With D, E, F.) <a href="https://link.com">link</a>.</li>
+        <li><strong>1</strong> <em>1</em>. (With S.A. Altug, A. Shankar, and I. Varma.) <a href="./d4.pdf">link</a>.</li>
+        <li><em>1r</em>. (With D, E, F.) <a href="https://link.com">link</a>.</li>
       </ul>
       <h2>Some other activity</h2>
       <p>I do other things!</p>
