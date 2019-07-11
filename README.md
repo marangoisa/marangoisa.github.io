@@ -22,7 +22,9 @@
       <p align="center">
         <img src="https://marangoisa.github.io/perfil.jpg" align="left" width="400">
       </p>
-      <h2>Visit my website <a href="https://www.mauricio-arango.com/">link</a></h2>
+      <h2>Visit my website
+        <em>mauricio-arango.com</em><a href="https://www.mauricio-arango.com/">link</a>
+    </h2>
     </article>
   </body>
 </html>
