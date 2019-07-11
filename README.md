@@ -20,13 +20,10 @@
         <h1>Mauricio Arango</h1>
       </p>
       <p align="center">
-        #<img src="https://kevinhayeswilson.com/images/me.jpg">
+        #<img src="https://marangoisa.github.io/perfil.jpg">
       </p>
-      <h2>Papers</h2>
-      <p>Visit my website</p>
-      <ul>
-        <li><em>mauricio-arango</em>. <a href="https://www.mauricio-arango.com/">link</a>
-      </ul>
+      <h2>Visit my website</h2>
+      <p>mauricio-arango.com <a href="https://www.mauricio-arango.com/">link</a></p>
     </article>
   </body>
 </html>
