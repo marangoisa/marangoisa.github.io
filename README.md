@@ -20,10 +20,9 @@
         <h1>Mauricio Arango</h1>
       </p>
       <p align="center">
-        #<img src="https://marangoisa.github.io/perfil.jpg">
+        <img src="https://marangoisa.github.io/perfil.jpg" width="50">
       </p>
-      <h2>Visit my website</h2>
-      <p>mauricio-arango.com <a href="https://www.mauricio-arango.com/">link</a></p>
+      <h2>Visit my website mauricio-arango.com <a href="https://www.mauricio-arango.com/">link</a></h2>
     </article>
   </body>
 </html>
