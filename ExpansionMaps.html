@@ -1,9 +1,17 @@
 <!DOCTYPE html>
+
 <html>
-<title>Basic Leaflet map - bl.ocks.org</title>
 <head>
-<meta charset="utf-8" />
-<title>leaflet</title>
+  <title>A Leaflet map!</title>
+  <link rel="stylesheet" href="https://d19vzq90twjlae.cloudfront.net/leaflet-0.7.3/leaflet.css" />
+  <script src="https://d19vzq90twjlae.cloudfront.net/leaflet-0.7.3/leaflet.js"></script>
+  <style>
+    #map{ width: 900px; height: 500px; }
+  </style>
+</head>
+<body>
+
+  <div id="map"></div>
 <script>(function() {
   // If window.HTMLWidgets is already defined, then use it; otherwise create a
   // new object. This allows preceding code to set options that affect the
